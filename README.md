@@ -4,7 +4,7 @@ Welcome to my DS-Assignments repository! This repository is a part of my data sc
 
 ## Overview
 
-The repository is organized into sections based on the source material. The first section covers my work through Eric Matthes' book, chapter by chapter (excluding Chapter 1), focusing on Python programming fundamentals and their application in data science. I believe that a strong foundation in programming is essential for data science, which is why I'm including materials that may not be directly related to data science but are crucial for building the necessary skills.
+The repository is organized into sections based on the source material. The first section covers my work through Eric Matthes' book, chapter by chapter (excluding Chapter 1), focusing on Python programming fundamentals. I believe that a strong foundation in programming is essential for data science, which is why I'm including materials that may not be directly related to data science but are crucial for building the necessary skills.
 
 ## Eric Matthes - Python Crash Course
 
