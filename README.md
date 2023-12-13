@@ -1,6 +1,6 @@
 # DS-Assignments
 
-Welcome to my DS-Assignments repository! This repository is a part of my data science learning journey. It includes various assignments and exercises from different sources, starting with "Python Crash Course: A Hands-On, Project-Based Introduction to Programming" by Eric Matthes.
+Welcome to my Assignments repository! This repository is a part of my data science learning journey. It includes various assignments and exercises from different sources, starting with "Python Crash Course: A Hands-On, Project-Based Introduction to Programming" by Eric Matthes.
 
 ## Overview
 
@@ -16,11 +16,11 @@ Each chapter includes code implementations for the "Try it Yourself" exercises, 
 
 ## Future Assignments
 
-This repository will be continuously updated with assignments from various other sources as I progress in my data science journey.
+This repository will be continuously updated with assignments from various other sources as I progress in my programming and data science journey.
 
 ## Purpose
 
-The aim of this repository is to track my progress, improve my programming skills, and provide a practical approach to learning data science concepts.
+The aim of this repository is to track my progress, improve my programming skills, and provide a practical approach to learning new concepts.
 
 ## Using this Repository
 
