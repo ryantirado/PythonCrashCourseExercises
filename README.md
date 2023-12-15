@@ -11,6 +11,8 @@ The repository is meticulously organized to mirror the structure of Matthes' boo
 - **Eric Matthes - Python Crash Course**
   - **Chapter 2 - Variables and Simple Data Types:** An exploration into the basics of Python variables, strings, and numbers.
   - **Chapter 3 - Introducing Lists:** Understanding and manipulating lists in Python.
+  - **Chapter 4 - Working with Lists: Learn advanced list operations in Python, including looping techniques, list comprehension, and data manipulation.
+  - **Chapter 5 - If Statements and Conditional Tests: Discover how to use if statements for conditional logic in Python, covering basic to complex conditional structures.
   - _(Continue with subsequent chapters)_
 
 Each chapter section includes my code implementations for the "Try it Yourself" exercises, complemented by personal notes and insights to enhance understanding.
