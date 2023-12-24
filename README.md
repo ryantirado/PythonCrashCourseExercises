@@ -13,6 +13,12 @@ The repository is meticulously organized to mirror the structure of Matthes' boo
   - **Chapter 3 - Introducing Lists:** Understanding and manipulating lists in Python.
   - **Chapter 4 - Working with Lists:** Learn advanced list operations in Python, including looping techniques, list comprehension, and data manipulation.
   - **Chapter 5 - If Statements:** Discover how to use if statements for conditional logic in Python, covering basic to complex conditional structures.
+  - **Chapter 6 - Dictionaries:** Learn how to use dictionaries for storing and managing data.
+  - **Chapter 7 - User Input and while Loops:** Discover how to write interactive programs using user input and while loops.
+  - **Chapter 8 - Functions:** Understand how to create reusable blocks of code with functions.
+  - **Chapter 9 - Classes:** Introduction to classes for object-oriented programming.
+  - **Chapter 10 - Files and Exceptions:** Learn file handling and error management in Python.
+  - **Chapter 11 - Testing Your Code:** Explore techniques for testing Python code to ensure it runs as expected.
   - _(Continue with subsequent chapters)_
 
 Each chapter section includes my code implementations for the "Try it Yourself" exercises, complemented by personal notes and insights to enhance understanding.
